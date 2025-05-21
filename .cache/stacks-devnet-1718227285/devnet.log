@@ -1,0 +1,14 @@
+Jun 12 21:21:25.502 INFO Checking contracts
+Jun 12 21:21:25.534 INFO Starting Devnet
+Jun 12 21:21:25.535 INFO Listening on port 20445 for Stacks chain events
+Jun 12 21:21:25.535 INFO Observing Bitcoin chain events via Stacks node
+Jun 12 21:21:25.539 INFO Initiating Devnet boot sequence (working_dir: /Users/leah/Projects/clarity-examples/examples/counter/./.cache/stacks-devnet-1718227285)
+Jun 12 21:21:25.542 INFO Creating network counter.devnet
+Jun 12 21:21:25.542 INFO Starting bitcoin-node
+Jun 12 21:21:26.671 INFO Created container bitcoin-node: e625d40df8bdcfd3f23d70f9c84416a7c8dd42994a05931ef255287d029b50df
+Jun 12 21:21:26.707 ERRO Fatal: unable to start bitcoind container: network counter.devnet is ambiguous (2 matches found on name)
+Jun 12 21:21:26.713 INFO Handling Termination command
+Jun 12 21:21:26.713 INFO Terminating container: e625d40df8bdcfd3f23d70f9c84416a7c8dd42994a05931ef255287d029b50df
+Jun 12 21:21:26.718 INFO Pruning network and containers
+Jun 12 21:21:26.816 INFO Artifacts (logs, conf, chainstates) available here: /Users/leah/Projects/clarity-examples/examples/counter/./.cache/stacks-devnet-1718227285
+Jun 12 21:21:26.816 INFO ⚠️  fatal error - unable to start bitcoind container: network counter.devnet is ambiguous (2 matches found on name)

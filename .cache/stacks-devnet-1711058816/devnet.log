@@ -1,0 +1,70 @@
+Mar 21 22:06:57.060 INFO Checking contracts
+Mar 21 22:06:57.076 INFO Starting Devnet
+Mar 21 22:06:57.078 INFO Listening on port 20445 for Stacks chain events
+Mar 21 22:06:57.078 INFO Observing Bitcoin chain events via Stacks node
+Mar 21 22:06:57.079 INFO Initiating Devnet boot sequence (working_dir: /Users/leah/Projects/clarity-examples/examples/counter/./.cache/stacks-devnet-1711058816)
+Mar 21 22:06:57.081 INFO Creating network counter.devnet
+Mar 21 22:06:57.081 INFO Starting bitcoin-node
+Mar 21 22:06:58.278 INFO Created container bitcoin-node: ad9418dad749754eab70fe7d1ece052d19cd7b95c9c08a0a234a0c2c3a14e1f7
+Mar 21 22:06:58.765 INFO Configuring bitcoin-node
+Mar 21 22:06:59.771 INFO Waiting for bitcoin-node
+Mar 21 22:06:59.774 ERRO unable to send 'getnetworkinfo' request (error sending request for url (http://localhost:18443/): error trying to connect: tcp connect error: Connection refused (os error 61))
+Mar 21 22:07:00.777 INFO Waiting for bitcoin-node
+Mar 21 22:07:00.779 ERRO unable to send 'getnetworkinfo' request (error sending request for url (http://localhost:18443/): error trying to connect: tcp connect error: Connection refused (os error 61))
+Mar 21 22:07:01.781 INFO Waiting for bitcoin-node
+Mar 21 22:07:01.785 ERRO unable to send 'getnetworkinfo' request (error sending request for url (http://localhost:18443/): error trying to connect: tcp connect error: Connection refused (os error 61))
+Mar 21 22:07:02.788 INFO Waiting for bitcoin-node
+Mar 21 22:07:02.789 ERRO unable to send 'getnetworkinfo' request (error sending request for url (http://localhost:18443/): error trying to connect: tcp connect error: Connection refused (os error 61))
+Mar 21 22:07:03.795 INFO Waiting for bitcoin-node
+Mar 21 22:07:03.798 ERRO unable to send 'getnetworkinfo' request (error sending request for url (http://localhost:18443/): error trying to connect: tcp connect error: Connection refused (os error 61))
+Mar 21 22:07:04.801 INFO Waiting for bitcoin-node
+Mar 21 22:07:04.808 ERRO unable to send 'getnetworkinfo' request (error sending request for url (http://localhost:18443/): error trying to connect: tcp connect error: Connection refused (os error 61))
+Mar 21 22:07:05.807 INFO Waiting for bitcoin-node
+Mar 21 22:07:05.811 ERRO unable to send 'getnetworkinfo' request (error sending request for url (http://localhost:18443/): error trying to connect: tcp connect error: Connection refused (os error 61))
+Mar 21 22:07:06.815 INFO Waiting for bitcoin-node
+Mar 21 22:07:06.818 ERRO unable to send 'getnetworkinfo' request (error sending request for url (http://localhost:18443/): error trying to connect: tcp connect error: Connection refused (os error 61))
+Mar 21 22:07:07.821 INFO Waiting for bitcoin-node
+Mar 21 22:07:07.823 ERRO unable to send 'getnetworkinfo' request (error sending request for url (http://localhost:18443/): error trying to connect: tcp connect error: Connection refused (os error 61))
+Mar 21 22:07:08.825 INFO Waiting for bitcoin-node
+Mar 21 22:07:08.834 ERRO unable to send 'getnetworkinfo' request (error sending request for url (http://localhost:18443/): error trying to connect: tcp connect error: Connection refused (os error 61))
+Mar 21 22:07:09.832 INFO Waiting for bitcoin-node
+Mar 21 22:07:09.836 ERRO unable to send 'getnetworkinfo' request (error sending request for url (http://localhost:18443/): error trying to connect: tcp connect error: Connection refused (os error 61))
+Mar 21 22:07:10.842 INFO Waiting for bitcoin-node
+Mar 21 22:07:10.843 ERRO unable to send 'getnetworkinfo' request (error sending request for url (http://localhost:18443/): error trying to connect: tcp connect error: Connection refused (os error 61))
+Mar 21 22:07:11.846 INFO Waiting for bitcoin-node
+Mar 21 22:07:11.853 ERRO unable to send 'getnetworkinfo' request (error sending request for url (http://localhost:18443/): error trying to connect: tcp connect error: Connection refused (os error 61))
+Mar 21 22:07:12.857 INFO Waiting for bitcoin-node
+Mar 21 22:07:12.867 ERRO unable to send 'getnetworkinfo' request (error sending request for url (http://localhost:18443/): error trying to connect: tcp connect error: Connection refused (os error 61))
+Mar 21 22:07:13.870 INFO Waiting for bitcoin-node
+Mar 21 22:07:13.875 ERRO unable to send 'getnetworkinfo' request (error sending request for url (http://localhost:18443/): error trying to connect: tcp connect error: Connection refused (os error 61))
+Mar 21 22:07:14.876 INFO Waiting for bitcoin-node
+Mar 21 22:07:14.879 ERRO unable to send 'getnetworkinfo' request (error sending request for url (http://localhost:18443/): error trying to connect: tcp connect error: Connection refused (os error 61))
+Mar 21 22:07:15.883 INFO Waiting for bitcoin-node
+Mar 21 22:07:15.885 ERRO unable to send 'getnetworkinfo' request (error sending request for url (http://localhost:18443/): error trying to connect: tcp connect error: Connection refused (os error 61))
+Mar 21 22:07:16.889 INFO Waiting for bitcoin-node
+Mar 21 22:07:16.894 ERRO unable to send 'getnetworkinfo' request (error sending request for url (http://localhost:18443/): error trying to connect: tcp connect error: Connection refused (os error 61))
+Mar 21 22:07:17.900 INFO Waiting for bitcoin-node
+Mar 21 22:07:17.910 ERRO unable to send 'getnetworkinfo' request (error sending request for url (http://localhost:18443/): error trying to connect: tcp connect error: Connection refused (os error 61))
+Mar 21 22:07:18.915 INFO Waiting for bitcoin-node
+Mar 21 22:07:18.926 ERRO unable to send 'getnetworkinfo' request (error sending request for url (http://localhost:18443/): error trying to connect: tcp connect error: Connection refused (os error 61))
+Mar 21 22:07:19.923 INFO Waiting for bitcoin-node
+Mar 21 22:07:19.933 ERRO unable to send 'getnetworkinfo' request (error sending request for url (http://localhost:18443/): error trying to connect: tcp connect error: Connection refused (os error 61))
+Mar 21 22:07:20.931 INFO Waiting for bitcoin-node
+Mar 21 22:07:20.941 ERRO unable to send 'getnetworkinfo' request (error sending request for url (http://localhost:18443/): error trying to connect: tcp connect error: Connection refused (os error 61))
+Mar 21 22:07:21.937 INFO Waiting for bitcoin-node
+Mar 21 22:07:21.941 ERRO unable to send 'getnetworkinfo' request (error sending request for url (http://localhost:18443/): error trying to connect: tcp connect error: Connection refused (os error 61))
+Mar 21 22:07:22.945 INFO Waiting for bitcoin-node
+Mar 21 22:07:22.952 ERRO unable to send 'getnetworkinfo' request (error sending request for url (http://localhost:18443/): error trying to connect: tcp connect error: Connection refused (os error 61))
+Mar 21 22:07:23.952 INFO Waiting for bitcoin-node
+Mar 21 22:07:23.959 ERRO unable to send 'getnetworkinfo' request (error sending request for url (http://localhost:18443/): error trying to connect: tcp connect error: Connection refused (os error 61))
+Mar 21 22:07:24.959 INFO Waiting for bitcoin-node
+Mar 21 22:07:24.965 ERRO unable to send 'getnetworkinfo' request (error sending request for url (http://localhost:18443/): error trying to connect: tcp connect error: Connection refused (os error 61))
+Mar 21 22:07:25.967 INFO Waiting for bitcoin-node
+Mar 21 22:07:25.972 ERRO unable to send 'getnetworkinfo' request (error sending request for url (http://localhost:18443/): error trying to connect: tcp connect error: Connection refused (os error 61))
+Mar 21 22:07:26.971 INFO Waiting for bitcoin-node
+Mar 21 22:07:26.978 ERRO unable to send 'getnetworkinfo' request (error sending request for url (http://localhost:18443/): error trying to connect: tcp connect error: Connection refused (os error 61))
+Mar 21 22:07:27.975 INFO Waiting for bitcoin-node
+Mar 21 22:07:27.990 ERRO unable to send 'getnetworkinfo' request (error sending request for url (http://localhost:18443/): error trying to connect: tcp connect error: Connection refused (os error 61))
+Mar 21 22:07:28.981 INFO Waiting for bitcoin-node
+Mar 21 22:07:28.989 ERRO Fatal: unable to send 'getnetworkinfo' request (error sending request for url (http://localhost:18443/): error trying to connect: tcp connect error: Connection refused (os error 61))
+Mar 21 22:07:28.992 INFO Handling Termination command
